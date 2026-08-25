@@ -4,18 +4,18 @@
     "OrganizationName": "25132209",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/rdudyfrjctst/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 5
+        "Version": 8
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/rdudyfrjctst/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 5
+        "Version": 8
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/rdudyfrjctst/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 5
+        "Version": 8
     },
     "DefaultSettingsSource": {
         "Value": "https://raw.githubusercontent.com/rdudyfrjctst/classisland-mgmt-cfg/master/Settings.json",
-        "Version": 5
+        "Version": 8
     }
 }
