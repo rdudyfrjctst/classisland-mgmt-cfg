@@ -1,21 +1,21 @@
-{
+﻿{
     "ServerKind": 0,
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "25132209",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/rdudyfrjctst/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 2
+        "Version": 5
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/rdudyfrjctst/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 2
+        "Version": 5
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/rdudyfrjctst/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 2
+        "Version": 5
     },
     "DefaultSettingsSource": {
         "Value": "https://raw.githubusercontent.com/rdudyfrjctst/classisland-mgmt-cfg/master/Settings.json",
-        "Version": 1
+        "Version": 5
     }
 }
